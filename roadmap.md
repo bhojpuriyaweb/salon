@@ -1,0 +1,4 @@
+- [x] Establish visual identity and original imagery
+- [x] Store appointment requests securely
+- [x] Build all homepage sections and interactions
+- [x] Verify booking and four requested widths
